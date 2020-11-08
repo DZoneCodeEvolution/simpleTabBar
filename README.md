@@ -1,6 +1,6 @@
-# simpletabbar
+# Flutter Simple Tab-Bar
 
-A new Flutter application.
+A simple tab bar for Flutter.
 
 ## Getting Started
 
